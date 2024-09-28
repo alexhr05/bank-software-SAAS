@@ -1,2 +1,2 @@
 # bank-software-SAAS
-Llittle bank software
+School project for little bank software 
